@@ -1,0 +1,150 @@
+
+/* Screen Size 1200px */
+
+@media(max-width:1200px){
+    html{
+        font-size: 0.95rem;
+    }
+    .menu{
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        transform: translate(0%,0% );
+    }
+    .col-xl-9{
+        margin-top: 450px;
+    }
+}
+
+/* Screen Size 1024px */
+
+@media(max-width:1024px){
+    html{
+        font-size: 0.9rem;
+    }
+    .menu{
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        transform: translate(0%,0% );
+    }
+    .col-xl-9{
+        margin-top: 450px;
+    }
+
+    /*-------------------------------- Contact-------------------------------------------------------------- */
+
+    .contact .form #a1{
+        width: 100%;
+    }
+
+    .contact .form #a2{
+        width: 100%;
+        margin-left: -10px;
+    }
+
+    .contact .form #a3{
+        width: 100%;
+    }
+
+    .contact .form #a4{
+        width: 100%;
+    }
+
+    .contact .form button{
+        width: 100%;
+    }
+
+    .contact .form{
+        padding-right: 0px;
+    }
+
+    .footer{
+        width: 123%;
+    }
+}
+
+
+/* Screen Size 768px */
+
+@media(max-width:768px){
+    html{
+        font-size: 0.8rem;
+    }
+    .menu{
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        transform: translate(0%,0% );
+    }
+    .col-xl-9{
+        margin-top: 450px;
+    }
+
+    .details{
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+
+    }
+
+    .education .container .row{
+        padding: 0px 5px;
+    }
+
+
+    .skills .container .row{
+        padding-right: 0px;
+    }
+
+    .contact .form #a1{
+        width: 100%;
+    }
+
+    .contact .form #a2{
+        width: 100%;
+        margin-left: -10px;
+    }
+
+    .contact .form #a3{
+        width: 100%;
+    }
+
+    .contact .form #a4{
+        width: 100%;
+    }
+
+    .contact .form button{
+        width: 100%;
+    }
+
+    .contact .form{
+        padding-right: 0px;
+    }
+    
+    .footer{
+        width: 125.5%;
+    }
+    
+    .details .card{
+        /* width: 100%; */
+        margin-left: -20px;
+        padding: 10px 0px;
+        width: 100%;
+    }
+    .details a{
+        /* width: 100%; */
+        margin-left: -20px;
+    }
+}
+
+
+/* Screen Size 576px */
+
+@media(max-width:576px){
+    html{
+        font-size: 0.75rem;
+    }
+
+    
+}
