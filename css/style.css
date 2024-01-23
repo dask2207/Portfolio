@@ -203,8 +203,7 @@ body{
 
 @keyframes changetext{
     0%{content:"KRISHNA DAS";}
-    50%{content:"Web developer";}
-    100%{content:"Photographer";}
+    100%{content:"Frontend developer";}
 }
 
 
