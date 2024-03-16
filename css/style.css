@@ -203,7 +203,7 @@ body{
 
 @keyframes changetext{
     0%{content:"KRISHNA DAS";}
-    50%{content:"Web developer";}
+    50%{content:"Full Stack developer";}
     100%{content:"Freelancer";}
 }
 
@@ -526,7 +526,7 @@ a{
 
 .skills .container .skill .skill-6 span:nth-child(1)::after{
     content: "";
-    width: 80%;
+    width: 75%;
     height: 0.2px;
     background-color: rgb(246, 184, 109);
     position: absolute;
@@ -537,7 +537,7 @@ a{
 
 .skills .container .skill .skill-7 span:nth-child(1)::after{
     content: "";
-    width: 80%;
+    width: 70%;
     height: 0.2px;
     background-color: rgb(246, 184, 109);
     position: absolute;
@@ -548,7 +548,7 @@ a{
 
 .skills .container .skill .skill-8 span:nth-child(1)::after{
     content: "";
-    width: 80%;
+    width: 70%;
     height: 0.2px;
     background-color: rgb(246, 184, 109);
     position: absolute;
@@ -570,7 +570,7 @@ a{
 
 .skills .container .skill .skill-10 span:nth-child(1)::after{
     content: "";
-    width: 80%;
+    width: 75%;
     height: 0.2px;
     background-color: rgb(246, 184, 109);
     position: absolute;
@@ -581,7 +581,7 @@ a{
 
 .skills .container .skill .skill-11 span:nth-child(1)::after{
     content: "";
-    width: 80%;
+    width: 70%;
     height: 0.2px;
     background-color: rgb(246, 184, 109);
     position: absolute;
