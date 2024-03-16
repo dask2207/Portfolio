@@ -407,6 +407,66 @@ a{
     color: #eee;
 }
 
+.skills .container .skill .skill-6{
+    position: relative;
+}
+.skills .container .skill .skill-6 span:nth-child(2){
+    position: absolute;
+    top: 50%;
+    left: 82%;
+    transform: translate(-82%, -50%);
+    color: #eee;
+}
+.skills .container .skill .skill-7{
+    position: relative;
+}
+.skills .container .skill .skill-7 span:nth-child(2){
+    position: absolute;
+    top: 50%;
+    left: 82%;
+    transform: translate(-82%, -50%);
+    color: #eee;
+}
+.skills .container .skill .skill-8{
+    position: relative;
+}
+.skills .container .skill .skill-8 span:nth-child(2){
+    position: absolute;
+    top: 50%;
+    left: 82%;
+    transform: translate(-82%, -50%);
+    color: #eee;
+}
+.skills .container .skill .skill-9{
+    position: relative;
+}
+.skills .container .skill .skill-9 span:nth-child(2){
+    position: absolute;
+    top: 50%;
+    left: 82%;
+    transform: translate(-82%, -50%);
+    color: #eee;
+}
+.skills .container .skill .skill-10{
+    position: relative;
+}
+.skills .container .skill .skill-10 span:nth-child(2){
+    position: absolute;
+    top: 50%;
+    left: 82%;
+    transform: translate(-82%, -50%);
+    color: #eee;
+}
+.skills .container .skill .skill-11{
+    position: relative;
+}
+.skills .container .skill .skill-11 span:nth-child(2){
+    position: absolute;
+    top: 50%;
+    left: 82%;
+    transform: translate(-82%, -50%);
+    color: #eee;
+}
 
 .skills .container .skill .skill-1 span:nth-child(1)::after{
     content: "";
@@ -454,6 +514,72 @@ a{
 }
 
 .skills .container .skill .skill-5 span:nth-child(1)::after{
+    content: "";
+    width: 80%;
+    height: 0.2px;
+    background-color: rgb(246, 184, 109);
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    transform: translate(0%,-100%);
+}
+
+.skills .container .skill .skill-6 span:nth-child(1)::after{
+    content: "";
+    width: 80%;
+    height: 0.2px;
+    background-color: rgb(246, 184, 109);
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    transform: translate(0%,-100%);
+}
+
+.skills .container .skill .skill-7 span:nth-child(1)::after{
+    content: "";
+    width: 80%;
+    height: 0.2px;
+    background-color: rgb(246, 184, 109);
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    transform: translate(0%,-100%);
+}
+
+.skills .container .skill .skill-8 span:nth-child(1)::after{
+    content: "";
+    width: 80%;
+    height: 0.2px;
+    background-color: rgb(246, 184, 109);
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    transform: translate(0%,-100%);
+}
+
+.skills .container .skill .skill-9 span:nth-child(1)::after{
+    content: "";
+    width: 80%;
+    height: 0.2px;
+    background-color: rgb(246, 184, 109);
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    transform: translate(0%,-100%);
+}
+
+.skills .container .skill .skill-10 span:nth-child(1)::after{
+    content: "";
+    width: 80%;
+    height: 0.2px;
+    background-color: rgb(246, 184, 109);
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    transform: translate(0%,-100%);
+}
+
+.skills .container .skill .skill-11 span:nth-child(1)::after{
     content: "";
     width: 80%;
     height: 0.2px;
